@@ -1,2 +1,2 @@
-#COMPILER PROJECT 2024
-syntax analyzer
+# COMPILER PROJECT 2024
+# syntax analyzer
